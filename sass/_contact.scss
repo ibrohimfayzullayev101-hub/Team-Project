@@ -1,5 +1,4 @@
 
-// O'zgaruvchilar (Variables)
 $bg-color: #ffffff;
 $card-bg: #f5f6fa;
 $text-dark: #1e2022;
@@ -39,13 +38,6 @@ $font-family: 'Poppins', sans-serif;
     
     }
   }
-}
-
-// Form kartasi
-.contact-card {
-  background-color: $card-bg;
-  border-radius: 12px;
-  padding: 40px;
 }
 
 // Form elementlari
@@ -130,6 +122,7 @@ $font-family: 'Poppins', sans-serif;
   @media (max-width: 600px) {
     width: 100%;
     align-self: center;
+    letter-spacing: 0;
   }
 }
 
