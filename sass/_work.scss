@@ -9,6 +9,8 @@
     max-width: 138px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 5px;
+    margin-top: 20px;
   }
   .work-child {
     font-family: Poppins;
@@ -19,6 +21,7 @@
     max-width: 504px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 24px;
   }
   .work-grandchild {
     font-family: Poppins;
@@ -29,5 +32,24 @@
     max-width: 733px;
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: 32px;
   }
+}
+
+.gold ul {
+  list-style-type: none;
+  .gold li {
+    text-decoration: none;
+  }
+}
+.enthernet a {
+  gap: 28px;
+  color: red;
+  margin-bottom: 30px;
+}
+span {
+  color: #2405f2;
+}
+.gold {
+  gap: 32px;
 }
